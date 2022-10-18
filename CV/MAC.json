@@ -1,0 +1,163 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Diaz Canel",
+      "title": "Data Engineer",
+      "description": "I am a university graduate in computer engineering. I studied in Cuba. I lived and worked in Argentina for 7 years. I have worked in the financial sector mainly with C# and Big Data. I am a lover of data and all the value that can be extracted from it. Many of my work experiences are related to data processing and the use of ETL tools. I like to improve myself and be able to provide solutions to the team.\n",
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/diazknel"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Hadoop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pentaho",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PySpark",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Engineer",
+        "startDate": "2005-09-01",
+        "finishDate": "2009-06-01",
+        "institution": {
+          "name": "CUJAE",
+          "URL": "https://cujae.edu.cu/",
+          "image": {
+            "alt": "download.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/264224b1-458c-45dd-b736-834795380359_download.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Pentaho",
+            "type": "technology"
+          },
+          {
+            "name": "SSIS",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/diazknel"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Airflow",
+          "type": "technology"
+        },
+        {
+          "name": "Databricks",
+          "type": "technology"
+        },
+        {
+          "name": "Hadoop",
+          "type": "technology"
+        },
+        {
+          "name": "Hive",
+          "type": "technology"
+        },
+        {
+          "name": "Pentaho",
+          "type": "technology"
+        },
+        {
+          "name": "PySpark",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Redshift",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Engineer"
+      ]
+    }
+  }
+}

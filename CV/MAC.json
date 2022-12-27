@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,15 +10,10 @@
       "surnames": "Diaz Canel",
       "title": "Data Engineer",
       "description": "Data lover, my graduate work was how to implement a DWH to facilitate decision making in healthcare. After little by little I have continued to introduce myself in this world and I have had various responsibilities.\nAt the beginning I had a more hybrid profile, a bit of fullstack with a bit of Data Engineer and a bit of data analyst. Over time, following my interests, I have specialized more and more in the Data Engineer part. I worked in finance and credit analysis companies, most recently in advertising and online marketing companies. I love learning and the challenges that arise on a daily basis to do something more efficient\n",
-      "avatar": {
-        "alt": "",
-        "link": ""
-      },
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
@@ -28,17 +23,163 @@
       }
     ]
   },
-  "knowledge": {
-    "languages": [
+  "experience": {
+    "jobs": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "organization": {
+          "name": "Emailing Network "
+        },
+        "roles": [
+          {
+            "name": "Chief Technology Officer",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "organization": {
+          "name": "Adevinta Spain "
+        },
+        "roles": [
+          {
+            "name": "Data Engineer",
+            "startDate": "2020-04-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CAPITOLE CONSULTING"
+        },
+        "roles": [
+          {
+            "name": "Business Intelligence Specialist",
+            "startDate": "2019-07-01",
+            "finishDate": "2020-04-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "J.P. Morgan"
+        },
+        "roles": [
+          {
+            "name": "Senior BI",
+            "startDate": "2018-02-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Advanced Development Solutions - ADS"
+        },
+        "roles": [
+          {
+            "name": "Programmer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Trusted Translations"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-11-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "Dessarollo de herramientas de gestion"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GET"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2012-02-01",
+            "finishDate": "2013-10-31",
+            "challenges": [
+              {
+                "description": "Management Application Developer\nQuality Workgroup"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Instituto Superior Politécnico José Antonio Echeverría (CUJAE)"
+        },
+        "roles": [
+          {
+            "name": "Project Manager and Developer",
+            "startDate": "2009-10-01",
+            "finishDate": "2012-02-28",
+            "challenges": [
+              {
+                "description": "Member of a Research Center (CREA) within my University, this center specializes in Distance Education through educational platforms (Moodle, CRM, Information Repositories) and started to dabble in video streaming application and social networks applied to Education. I tutored several thesis in m time here."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Centro Internacional Retinosis Pigmentaria"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2007-11-01",
+            "finishDate": "2010-09-30",
+            "challenges": [
+              {
+                "description": "Developer of a Hospital Management System with Electronic Medical Records.\nDevelopment Centre website\nDevelopment Team Coordinator"
+              }
+            ]
+          }
+        ]
       }
-    ],
+    ]
+  },
+  "knowledge": {
     "hardSkills": [
       {
         "skill": {
@@ -86,7 +227,6 @@
         "finishDate": "2009-06-01",
         "institution": {
           "name": "CUJAE",
-          "description": "",
           "URL": "https://cujae.edu.cu/",
           "image": {
             "alt": "download.jpeg",
@@ -165,35 +305,7 @@
           "name": "Spark",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Data Engineer"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Hadoop",
-        "type": "technology"
-      },
-      {
-        "name": "Airflow",
-        "type": "technology"
-      },
-      {
-        "name": "Pentaho",
-        "type": "technology"
-      },
-      {
-        "name": "Spark",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }

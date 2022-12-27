@@ -42,13 +42,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Hadoop",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Pentaho",
+          "name": "Hadoop",
           "type": "technology"
         }
       },
@@ -60,19 +60,19 @@
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "PySpark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pentaho",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Spark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PySpark",
           "type": "technology"
         }
       }
@@ -171,5 +171,29 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Hadoop",
+        "type": "technology"
+      },
+      {
+        "name": "Airflow",
+        "type": "technology"
+      },
+      {
+        "name": "Pentaho",
+        "type": "technology"
+      },
+      {
+        "name": "Spark",
+        "type": "technology"
+      }
+    ]
   }
 }

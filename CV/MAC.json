@@ -311,6 +311,10 @@
           "name": "Spark",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Engineer",
+        "Tech Lead"
       ]
     },
     "status": "openToOffers"

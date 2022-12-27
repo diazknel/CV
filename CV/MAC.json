@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,11 +9,16 @@
       "name": "Daniel",
       "surnames": "Diaz Canel",
       "title": "Data Engineer",
-      "description": "I am a university graduate in computer engineering. I studied in Cuba. I lived and worked in Argentina for 7 years. I have worked in the financial sector mainly with C# and Big Data. I am a lover of data and all the value that can be extracted from it. Many of my work experiences are related to data processing and the use of ETL tools. I like to improve myself and be able to provide solutions to the team.\n",
+      "description": "Data lover, my graduate work was how to implement a DWH to facilitate decision making in healthcare. After little by little I have continued to introduce myself in this world and I have had various responsibilities.\nAt the beginning I had a more hybrid profile, a bit of fullstack with a bit of Data Engineer and a bit of data analyst. Over time, following my interests, I have specialized more and more in the Data Engineer part. I worked in finance and credit analysis companies, most recently in advertising and online marketing companies. I love learning and the challenges that arise on a daily basis to do something more efficient\n",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona"
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -26,7 +31,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -76,6 +86,7 @@
         "finishDate": "2009-06-01",
         "institution": {
           "name": "CUJAE",
+          "description": "",
           "URL": "https://cujae.edu.cu/",
           "image": {
             "alt": "download.jpeg",
@@ -158,6 +169,7 @@
       "preferredRoles": [
         "Data Engineer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }

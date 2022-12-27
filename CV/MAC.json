@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,10 +10,15 @@
       "surnames": "Diaz Canel",
       "title": "Data Engineer",
       "description": "Data lover, my graduate work was how to implement a DWH to facilitate decision making in healthcare. After little by little I have continued to introduce myself in this world and I have had various responsibilities.\nAt the beginning I had a more hybrid profile, a bit of fullstack with a bit of Data Engineer and a bit of data analyst. Over time, following my interests, I have specialized more and more in the Data Engineer part. I worked in finance and credit analysis companies, most recently in advertising and online marketing companies. I love learning and the challenges that arise on a daily basis to do something more efficient\n",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona"
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -227,6 +232,7 @@
         "finishDate": "2009-06-01",
         "institution": {
           "name": "CUJAE",
+          "description": "",
           "URL": "https://cujae.edu.cu/",
           "image": {
             "alt": "download.jpeg",
@@ -306,6 +312,31 @@
           "type": "technology"
         }
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Hadoop",
+        "type": "technology"
+      },
+      {
+        "name": "Airflow",
+        "type": "technology"
+      },
+      {
+        "name": "Pentaho",
+        "type": "technology"
+      },
+      {
+        "name": "Spark",
+        "type": "technology"
+      }
+    ]
   }
 }

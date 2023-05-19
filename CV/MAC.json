@@ -11,18 +11,12 @@
       "title": "Data Engineer",
       "description": "Nací en Cuba, vive hasta los 28 años en mi país, luego me mude a Argentina, estuve viviendo en Buenos Aires por 7 años y desde el 2019 estoy en Barcelona.\nMe gradué en el 2009 en la Universidad de Ciencias Técnicas de la Habana, mi tesis de grado fue sobre la puesta en marcha y explotación de DWH.\nMe considero un apasionado de los datos en particular y de la tecnología en general. Me encanta aprender, lograr trasmitir valor mediante los datos, que su uso nos permita tomar mejores decisiones y que cada vez seamos capaces de procesarlos y extraer más información de ellos.\n",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/diazknel"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -32,7 +26,7 @@
         },
         "roles": [
           {
-            "name": "Chief Technology Officer",
+            "name": "Tech Lead",
             "startDate": "2022-05-01",
             "challenges": [
               {
@@ -183,30 +177,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
           "name": "Airflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
           "type": "technology"
         }
       },
@@ -221,6 +203,18 @@
           "name": "PySpark",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -229,16 +223,15 @@
         "degreeAchieved": true,
         "name": "Computer Engineer",
         "startDate": "2005-09-01",
-        "finishDate": "2009-06-01",
         "institution": {
           "name": "CUJAE",
-          "description": "",
           "URL": "https://cujae.edu.cu/",
           "image": {
-            "alt": "download.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/264224b1-458c-45dd-b736-834795380359_download.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/264224b1-458c-45dd-b736-834795380359_download.jpeg",
+            "alt": "download.jpeg"
           }
         },
+        "finishDate": "2009-06-01",
         "linkedCompetences": [
           {
             "name": "C++",
@@ -262,14 +255,43 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Comunicación intercultural",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/diazknel"
+          "URL": "https://www.linkedin.com/in/diazknel",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "ddiazknel@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "667627858",
+          "countryCode": "+34"
         }
       ]
     },
@@ -319,14 +341,14 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
         "name": "Airflow",
         "type": "technology"
       },
       {
-        "name": "Spark",
+        "name": "Pentaho",
         "type": "technology"
       },
       {
@@ -334,9 +356,10 @@
         "type": "technology"
       },
       {
-        "name": "Pentaho",
+        "name": "Spark",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "My dream job would be with Pentáho, Python, Airflow, Hadoop, etc. DW, Big Data and related topics."
   }
 }

@@ -295,6 +295,12 @@
       ],
       "contactMails": [
         "ddiazknel@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "667627858",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
